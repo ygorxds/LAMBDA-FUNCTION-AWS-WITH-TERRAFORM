@@ -1,0 +1,15 @@
+{
+  "name": "client_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ygor Pereira de Sá <ygordesa2010@hotmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "got": "^11.8.2"
+  }
+}
